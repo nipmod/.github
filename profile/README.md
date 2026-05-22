@@ -1,6 +1,6 @@
 # Nipmod
 
-One package API for agents.
+The package layer for AI agents.
 
 Nipmod helps agents search package sources, inspect trust signals and request safe install plans before code enters a workspace.
 
