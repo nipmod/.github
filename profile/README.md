@@ -15,6 +15,7 @@ Nipmod helps agents search package sources, inspect trust signals and request sa
 | Archive | https://nipmod.com/packages |
 | Security | https://nipmod.com/security |
 | Community | https://t.me/nipmod |
+| $NPM on Base | https://token.nipmod.com |
 
 ## Current Focus
 
